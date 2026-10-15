@@ -1,6 +1,6 @@
 # Case Study: Bike Sales Performance & Demographics Dashboard
 
-<img width="1161" height="626" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/b91d7c10-2133-4b73-8bae-6217f804a532" />
+<img width="1547" height="777" alt="Bike Sales Dashboard 1" src="https://github.com/user-attachments/assets/daed74bd-7a99-44ef-be2c-a73746ce3faa" />
 
 ## 1. Project Overview
 * **Objective:** Clean, transform, and model raw customer data to build an interactive business intelligence tool evaluating retail bike purchasing drivers.
@@ -29,3 +29,6 @@ The retail team lacked visibility into why specific demographic subsets converte
 * **Micro-Targeted Campaigns:** Optimize marketing spend by focusing digital advertising directly on high-income, middle-aged cohorts in urban centers, as they represent the highest conversion demographic.
 * **Product Line Diversification & Smart Stocking:** Allocate practical commuter bikes to retail locations with high volumes of short-range commuters, while prioritizing high-end hobby gear (premium performance and mountain bikes) in more affluent neighborhoods.
 * **Family-Focused Promotional Bundles:** Tailor primary campaigns toward single/couples households (zero children) where purchase rates peak. Introduce targeted family bundles or multi-bike incentives to stimulate sales among larger household segments where conversion naturally dips.
+  
+<img width="1546" height="713" alt="Bike Sales Dashboard 2" src="https://github.com/user-attachments/assets/87b79ab8-1b34-4e39-af7e-a755267052d5" />
+
