@@ -1,5 +1,7 @@
 # Case Study: Bike Sales Performance & Demographics Dashboard
 
+<img width="1161" height="626" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/b91d7c10-2133-4b73-8bae-6217f804a532" />
+
 ## 1. Project Overview
 * **Objective:** Clean, transform, and model raw customer data to build an interactive business intelligence tool evaluating retail bike purchasing drivers.
 * **Tool Stack:** Microsoft Excel (Advanced Data Cleaning, Nested Formulas, Pivot Tables, Interactive Slicers, Dynamic Charting).
